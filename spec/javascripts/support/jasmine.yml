@@ -68,6 +68,8 @@ spec_files:
 # src_dir: public
 #
 src_dir:
+  - 'public'
+  - 'tmp/jasmine-fixtures'
 
 # spec_dir
 #
